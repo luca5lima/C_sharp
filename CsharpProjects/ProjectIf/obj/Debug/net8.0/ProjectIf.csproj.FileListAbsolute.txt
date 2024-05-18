@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Documentos\MeusProjetos\C_sharp\CsharpProjects\ProjectIf\bin\Debug\net8.0\ProjectIf.exe
+C:\Users\lucas\OneDrive\Documentos\MeusProjetos\C_sharp\CsharpProjects\ProjectIf\bin\Debug\net8.0\ProjectIf.deps.json
+C:\Users\lucas\OneDrive\Documentos\MeusProjetos\C_sharp\CsharpProjects\ProjectIf\bin\Debug\net8.0\ProjectIf.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\MeusProjetos\C_sharp\CsharpProjects\ProjectIf\bin\Debug\net8.0\ProjectIf.dll
+C:\Users\lucas\OneDrive\Documentos\MeusProjetos\C_sharp\CsharpProjects\ProjectIf\bin\Debug\net8.0\ProjectIf.pdb
+C:\Users\lucas\OneDrive\Documentos\MeusProjetos\C_sharp\CsharpProjects\ProjectIf\obj\Debug\net8.0\ProjectIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\MeusProjetos\C_sharp\CsharpProjects\ProjectIf\obj\Debug\net8.0\ProjectIf.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\MeusProjetos\C_sharp\CsharpProjects\ProjectIf\obj\Debug\net8.0\ProjectIf.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\MeusProjetos\C_sharp\CsharpProjects\ProjectIf\obj\Debug\net8.0\ProjectIf.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\MeusProjetos\C_sharp\CsharpProjects\ProjectIf\obj\Debug\net8.0\ProjectIf.sourcelink.json
+C:\Users\lucas\OneDrive\Documentos\MeusProjetos\C_sharp\CsharpProjects\ProjectIf\obj\Debug\net8.0\ProjectIf.dll
+C:\Users\lucas\OneDrive\Documentos\MeusProjetos\C_sharp\CsharpProjects\ProjectIf\obj\Debug\net8.0\refint\ProjectIf.dll
+C:\Users\lucas\OneDrive\Documentos\MeusProjetos\C_sharp\CsharpProjects\ProjectIf\obj\Debug\net8.0\ProjectIf.pdb
+C:\Users\lucas\OneDrive\Documentos\MeusProjetos\C_sharp\CsharpProjects\ProjectIf\obj\Debug\net8.0\ProjectIf.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\MeusProjetos\C_sharp\CsharpProjects\ProjectIf\obj\Debug\net8.0\ref\ProjectIf.dll
