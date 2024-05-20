@@ -17,7 +17,7 @@
 
 // Console.WriteLine($"There are {fraudulentOrderIDs.Length} fraudulent orders to process.\n");
 
-//##############################################################
+//##########################################################
 /*
 string[] names = {"Rowena", "Robin", "Bao", "Matheus"};
 foreach (string name in names)
@@ -25,7 +25,7 @@ foreach (string name in names)
     Console.WriteLine(name);
 }
 */
-//##############################################################
+//##########################################################
 /*
 int[] inventory = {200, 450, 700, 175, 250};
 int soma = 0;
@@ -38,7 +38,7 @@ foreach (int product in inventory)
 }
 Console.WriteLine($"\nWe have {soma} items in inventory.");
 */
-//##############################################################
+//##########################################################
 
 string[] orderIDs = {
     "B123",    "C234",     "A345",    
